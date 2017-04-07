@@ -1,2 +1,2 @@
 # JavaScript_refresher
-Notes and code for JavaScript Udacity Class
+Notes for JavaScript Udacity Class
